@@ -4,7 +4,7 @@ Projeto prático focado em diagnóstico de redes, simulando cenários reais enfr
 
 ---
 
-## 🎯 Objetivo TESTE
+## 🎯 Objetivo
 
 Desenvolver habilidades essenciais de troubleshooting de rede:
 
